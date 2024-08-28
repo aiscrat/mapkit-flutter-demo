@@ -20,8 +20,6 @@ There are two projects in the repository:
 
     - [`map_routing`](mapkit-samples/map_routing): About the [Routes](https://mappable.world/docs/mapkit/flutter/generated/tutorials/map_routes.html) and [Routing](https://mappable.world/docs/mapkit/flutter/generated/tutorials/map_routing.html) API.
 
-    - [`map_offline`](mapkit-samples/map_offline): Examples of using the Offline Maps API for working with MapKit's maps without the internet.
-
     - [`map_with_jams`](mapkit-samples/map_with_jams): Examples of how get information about [traffic jams](https://mappable.world/docs/mapkit/flutter/generated/tutorials/map_routes.html#jams-segments) on the route.
 
     - [`map_with_custom_style`](mapkit-samples/map_with_custom_style): Examples of using map with [custom style](https://mappable.world/docs/mapkit/style.html).
